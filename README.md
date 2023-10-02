@@ -1,10 +1,6 @@
-# 🎈 ESMFold
+# ProdPredict ESMFold
 
 [*ESMFold*](https://esmatlas.com/about) is an end-to-end single sequence protein structure predictor based on the ESM-2 language model.
-
-## Demo App
-
-[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://esmfold.streamlit.app/)
 
 ## Credit
 
